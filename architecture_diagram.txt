@@ -1,0 +1,11 @@
+Kaggle Dataset
+      ↓
+Google Colab
+      ↓
+Pandas Transformation Layer
+      ↓
+Aggregation & Validation
+      ↓
+SQLite Database
+      ↓
+Excel Reporting Layer

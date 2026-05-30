@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+openpyxl
+kagglehub
+numpy
+sqlite3
